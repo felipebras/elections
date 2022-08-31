@@ -5,6 +5,8 @@ Texts published on Medium related to this repository:
 
 https://medium.com/@felipebras/brazilian-2022-elections-analysis-avoiding-controversies-sort-of-15bbe8edabcb
 
+https://medium.com/@felipebras/brazilian-2022-elections-networks-and-biases-c1658adb9765
+
 ## Chamber of Deputies Data Analysis
 This repository contains the notebooks used to explore the data available at the Chamber of Deputies (Câmara dos Deputados) open data initiave. All data is obtained at the official Chamber website:
 
